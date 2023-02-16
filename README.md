@@ -34,8 +34,8 @@ As a developer i often use `array.map` or `for loop` in my JSX-code. In order to
 
 | Way to install     |    command |  version   |
 | ------------- |:-------------:| -----:|
-| **NPM**      | `npm install` | commonJS            |
-| **NPM**      | `npm install` | ecmaJS            |
+| **NPM**      | `npm i jsx-array-iteration.commonjs` | commonJS            |
+| **NPM**      | `npm i jsx-array-iteration.ecmajs` | ecmaJS            |
 | **YARN**      | -            |               |
 # General props
 Props will help you to tell the "JSX-array-iteration" package how it should work.
@@ -259,3 +259,7 @@ root.render(
 ___
 # JavaScript support
 This package has two version of JavaScript. CommonJS and EcmaJS.
+
+[EcmaScript](https://www.npmjs.com/package/jsx-array-iteration.ecmajs)
+
+[CommonJS](https://www.npmjs.com/package/jsx-array-iteration.commonjs)
